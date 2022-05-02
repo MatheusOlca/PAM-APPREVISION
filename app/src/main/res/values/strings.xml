@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">APPREVISION</string>
+    <string name="label">Digite os Valores:</string>
+    <string name="symbol">=</string>
+    <string name="compare_text">O 1° valor é igual ao 2° valor</string>
+    <string name="button">Toast!</string>
+</resources>
